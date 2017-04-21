@@ -4,7 +4,7 @@
 // @version    0.0.2
 // @description  Pawooooooooooooooo
 // @include    /^https:\/\/pawoo.net/
-// @copyright  2017+, You
+// @copyright  2017+, aycabta
 // ==/UserScript==
 
 (function() {
