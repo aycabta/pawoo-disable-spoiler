@@ -1,5 +1,6 @@
 ﻿// ==UserScript==
 // @name       Pawoo Disable Spoiler
+// @license    MIT
 // @namespace  http://aycabta.github.io/
 // @version    0.1.0
 // @description  Pawooooooooooooooo
