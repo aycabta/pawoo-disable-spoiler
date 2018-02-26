@@ -2,7 +2,7 @@
 // @name       Pawoo Disable Spoiler
 // @license    MIT
 // @namespace  http://aycabta.github.io/
-// @version    0.1.0
+// @version    0.1.1
 // @description  Pawooooooooooooooo
 // @include    /^https:\/\/pawoo.net/
 // @copyright  2017+, aycabta
